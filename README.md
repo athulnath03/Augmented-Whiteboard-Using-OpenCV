@@ -18,7 +18,7 @@ AirBoard transforms a webcam into an interactive whiteboard using **MediaPipe Ha
 ## Demo
 
 ![AirBoard Demo](/assets/screenshot.png)
-*Split-screen layout: camera feed (left) with toolbar, white drawing canvas (right)*
+Split-screen layout: camera feed (left) with toolbar, white drawing canvas (right)
 ---
 
 ## Features
