@@ -17,10 +17,9 @@ AirBoard transforms a webcam into an interactive whiteboard using **MediaPipe Ha
 
 ## Demo
 
-> Add screenshots or GIF here
-
 ```md
-assets/screenshot.png
+## Demo
+![AirBoard Demo](assets/screenshot.png)
 ```
 
 ---
