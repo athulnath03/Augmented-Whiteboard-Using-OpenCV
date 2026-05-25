@@ -36,7 +36,9 @@ assets/screenshot.png
 - 20-level undo history
 - Split-screen camera + canvas UI
 - Save drawings instantly
-───────────┬──────────────────────────────────┬────────────────────────────────┐
+
+```text
+┌─────────────────┬──────────────────────────────────┬────────────────────────────────┐
 │ Challenge       │ Typical Projects                 │ AirBoard                       │
 ├─────────────────┼──────────────────────────────────┼────────────────────────────────┤
 │ Hand Jitter     │ Cursor switches between hands    │ Dominant hand locking          │
