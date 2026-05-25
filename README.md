@@ -15,11 +15,12 @@ AirBoard transforms a webcam into an interactive whiteboard using **MediaPipe Ha
 
 ---
 
+```md
+
 ## Demo
 
-```md
-![AirBoard Demo](assets/screenshot.png)
-```
+![AirBoard Demo](/assets/screenshot.png)
+
 
 ---
 
