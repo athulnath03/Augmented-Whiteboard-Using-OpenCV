@@ -1,4 +1,4 @@
-# ✋ AirBoard — Augmented Whiteboard Using Hand Gestures
+# AirBoard — Real-Time Gesture-Controlled Whiteboard Using OpenCV
 
 Draw in the air using natural hand gestures.
 
@@ -9,9 +9,9 @@ AirBoard transforms a webcam into an interactive whiteboard using **MediaPipe Ha
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Tasks-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> 🎓 Final Year Major Project  
-> 👥 Team of 4  
-> 🖥️ Computer Vision · Human–Computer Interaction
+> Final Year Major Project  
+> Team of 4  
+> Computer Vision · Human–Computer Interaction
 
 ---
 
@@ -28,21 +28,15 @@ assets/screenshot.png
 
 ## Features
 
-- ✋ Real-time hand tracking using MediaPipe Tasks API
-- 🎨 Air drawing with gesture-based controls
-- 🧠 Dominant-hand locking to reduce jitter
-- 🖌️ Continuous brush-size control
-- 🧹 Artifact-free erasing via bitwise compositing
-- ↩️ 20-level undo history
-- 🪟 Split-screen camera + canvas UI
-- 💾 Save drawings instantly
-
----
-
-## Why AirBoard
-
-```text
-┌─────────────────┬──────────────────────────────────┬────────────────────────────────┐
+- Real-time hand tracking using MediaPipe Tasks API
+- Air drawing with gesture-based controls
+- Dominant-hand locking to reduce jitter
+- Continuous brush-size control
+- Artifact-free erasing via bitwise compositing
+- 20-level undo history
+- Split-screen camera + canvas UI
+- Save drawings instantly
+───────────┬──────────────────────────────────┬────────────────────────────────┐
 │ Challenge       │ Typical Projects                 │ AirBoard                       │
 ├─────────────────┼──────────────────────────────────┼────────────────────────────────┤
 │ Hand Jitter     │ Cursor switches between hands    │ Dominant hand locking          │
